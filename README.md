@@ -24,14 +24,6 @@ This tool allows you to generate secure random passwords, check their **strength
 - ✅ User-friendly Tkinter GUI  
 
 ---
-
-## 📸 Screenshot
-*(Add your app screenshot here for better presentation)*  
-Example:  
-![Password Generator GUI](screenshot.png)
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
